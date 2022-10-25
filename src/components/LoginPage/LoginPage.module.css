@@ -1,0 +1,10 @@
+.main-contianer{
+    display: flex;
+    flex-direction: column;
+}
+.img-container{
+ width: 50%;
+}
+.form-container{
+  width: 50%;
+}

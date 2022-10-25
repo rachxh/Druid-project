@@ -1,0 +1,9 @@
+.invoice-info {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+table, th, td {
+  border:1px solid black;
+}
